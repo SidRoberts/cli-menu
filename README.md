@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-    <a href="https://travis-ci.org/php-school/cli-menu" title="Build Status" target="_blank">
-     <img src="https://img.shields.io/travis/php-school/cli-menu/master.svg?style=flat-square&label=Linux" />
+    <a href="https://github.com/php-school/cli-menu/actions" title="Build Status" target="_blank">
+     <img src="https://img.shields.io/github/actions/workflow/status/php-school/cli-menu/test.yml?style=flat-square&label=Linux" />
     </a>
     <a href="https://ci.appveyor.com/project/mikeymike/cli-menu" title="Windows Build Status" target="_blank">
      <img src="https://img.shields.io/appveyor/ci/mikeymike/cli-menu/master.svg?style=flat-square&label=Windows" />
